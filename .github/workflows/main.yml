@@ -34,4 +34,4 @@ jobs:
         run: |
           echo listing the directory with ls -a
           ls -a
-          echo uname
+          uname
